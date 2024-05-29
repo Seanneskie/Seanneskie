@@ -26,7 +26,7 @@ I'm a passionate coder with a keen interest in anime, light novels, and manga. C
 
 ## Projects
 - **Coin Detector**: Made with Django and a model trained in GTM [AI - Coin Detector Webapp](https://github.com/Seanneskie/AI-coin-detector-django.git)
-- **Project 2**: Brief description with [link to repository](https://github.com/Seanneskie/AI-coin-detector-django.git)
+- **Portfolio**: In Progress [link to repository](https://github.com/Seanneskie/AI-coin-detector-django.git)
 
 ## Education
 - **Bachelor in Information Technology**: Major in Database, Mindanao State University - General Santos City, 2021-2025
