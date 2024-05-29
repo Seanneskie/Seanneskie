@@ -7,11 +7,27 @@
 
 ## Skills
 
+### Programming Languages
 - JavaScript
 - Python
+- PHP
+
+### Web Development
 - HTML
 - CSS
 - React
-- PHP
 - Django
 
+### Database Management
+- Basic SQL
+- PostgreSQL
+- MySQL
+
+### Diagrams and Modeling
+- UML - Use Case Diagramming and Activity Diagrams
+- Dataflow Diagrams
+- Entity Relationship Diagrams
+
+### Capture the Flag
+- Reverse Engineering
+- Forensics
