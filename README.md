@@ -1,9 +1,7 @@
 # Hi, I’m Seanneskie 👋
 
-- 👀 I’m interested in anime, light novels, and manga
-- 🌱 I’m currently learning coding with Python
-- 💞️ I’m looking to collaborate on coding projects
-- 📫 How to reach me: [seannecanete32@gmail.com](mailto:seannecanete32@gmail.com)
+## Introduction
+I'm a passionate coder with a keen interest in anime, light novels, and manga. Currently, I'm enhancing my skills in Python and looking for exciting coding projects to collaborate on.
 
 ## Skills
 
@@ -21,13 +19,28 @@
 ### Database Management
 - Basic SQL
 - PostgreSQL
-- MySQL
 
 ### Diagrams and Modeling
 - UML - Use Case Diagramming and Activity Diagrams
 - Dataflow Diagrams
-- Entity Relationship Diagrams
 
-### Capture the Flag
-- Reverse Engineering
-- Forensics
+## Projects
+- **Project 1**: Brief description with [link to repository](#)
+- **Project 2**: Brief description with [link to repository](#)
+
+## Education
+- **Bachelor in Information Technology**: Major in Database, Mindanao State University - General Santos City, 2021-2025
+
+## Certifications
+- **Certification 1**: Issued by [Certifying Body], [Year]
+- **Certification 2**: Issued by [Certifying Body], [Year]
+
+## Experience
+- **Internship/Job Title**: Company Name, [Year] - [Year]
+  - Description of your responsibilities and achievements.
+
+## Contact
+- Email: [seannecanete32@gmail.com](mailto:seannecanete32@gmail.com)
+- LinkedIn: [Seanne Cañete](https://www.linkedin.com/in/seanne-ca%C3%B1ete-8b09322a1/)
+- GitHub: [Seanneskie](https://github.com/Seanneskie)
+
