@@ -15,10 +15,16 @@ I'm a passionate coder with a keen interest in anime, light novels, and manga. C
 - CSS
 - React
 - Django
+- NextJS
 
 ### Database Management
 - Basic SQL
 - PostgreSQL
+- Supabase
+
+### CSS Frameworks
+- Bootstrap 4.5 and 5
+- Tailwind CSS
 
 ### Diagrams and Modeling
 - UML - Use Case Diagramming and Activity Diagrams
