@@ -1,7 +1,28 @@
-# Hi, I’m Seanneskie 👋
+# Hi, I’m Seanneskie 👋  
+<p align="center">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGpjamgzZmNrejA3Z2NpMGRpcXcyaDNnZWF2aXc2czcyMWNtMXpxYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L3R5dA76NNtWzemBFF/giphy.gif" width="600"/>
+</p>
 
-## About Me
-I'm a passionate coder with interests in anime, light novels, and manga. I'm currently honing my Python skills and open to collaborative projects!
+## 🎯 About Me  
+🚀 **Passionate Developer** | 📖 **Light Novel Enthusiast** | 🎨 **Anime & Manga Fan**  
+
+💡 I love **building projects** and exploring **new technologies.**  
+🎯 **Currently focusing on:** **Python, Django, and AI integration.**  
+☕ **Coffee keeps my code running smoothly!**  
+
+---
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-Developer-1E3A8A?style=for-the-badge&logo=python" />
+  <img src="https://img.shields.io/badge/Django-Lover-092E20?style=for-the-badge&logo=django" />
+  <img src="https://img.shields.io/badge/JavaScript-80%25-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-60%25-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/PostgreSQL-80%25-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-60%25-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Coffee-Lover-6F4E37?style=for-the-badge&logo=coffee&logoColor=white" />
+</p>
+
+---
+
 
 ## 🛠️ Skills 
 
@@ -36,6 +57,41 @@ I'm a passionate coder with interests in anime, light novels, and manga. I'm cur
 ### 🚀 Deployments & Hosting  
 ![Render](https://img.shields.io/badge/Render-60%25-46E3B7?style=for-the-badge&logo=render)
 ![Railway](https://img.shields.io/badge/Railway-60%25-0B0D12?style=for-the-badge&logo=railway&logoColor=white)
+
+## 📦 Dependencies & Tools  
+
+### 🐍 Python Modules  
+<p align="left">
+  <img src="https://img.shields.io/badge/Django-4.2-092E20?style=for-the-badge&logo=django&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-1.26.4-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-2.2.1-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenPyXL-3.1.2-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+</p>
+
+### 🚀 Node.js Modules  
+<p align="left">
+  <img src="https://img.shields.io/badge/React-18.2-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Next.js-15-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express.js-4.18-000000?style=for-the-badge&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Mongoose-7.6.4-880000?style=for-the-badge&logo=mongodb"/>
+  <img src="https://img.shields.io/badge/ShadCN-2.1.6-38B2AC?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/ReportJS-60%25-007ACC?style=for-the-badge&logo=javascript"/>
+  <img src="https://img.shields.io/badge/SweetAlert-60%25-FF6F61?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/TippyJS-60%25-4A90E2?style=for-the-badge"/>
+</p>
+
+### 📊 Data & Visualization  
+<p align="left">
+  <img src="https://img.shields.io/badge/Chart.js-4.4.3-FF6384?style=for-the-badge&logo=chartdotjs"/>
+  <img src="https://img.shields.io/badge/OpenCV-4.9.0-5C3EE8?style=for-the-badge&logo=opencv"/>
+  <img src="https://img.shields.io/badge/Matplotlib-3.8.3-11557C?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Tableau-60%25-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Looker-60%25-4285F4?style=for-the-badge&logo=looker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Microsoft%20Excel-80%25-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
+</p>
+
+
+
 
 ## 🚀 GitHub Stats  
 
