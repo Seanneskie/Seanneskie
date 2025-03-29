@@ -28,9 +28,11 @@
 ## 🛠️ Skills 
 
 ### 🚀 Programming Languages  
-![Python](https://img.shields.io/badge/Python-80%25-1E3A8A?style=for-the-badge&logo=python)
-![JavaScript](https://img.shields.io/badge/JavaScript-80%25-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-60%25-777BB4?style=for-the-badge&logo=php)
+![Python](https://img.shields.io/badge/Python-80%25-1E3A8A?style=for-the-badge&logo=python)  
+![JavaScript](https://img.shields.io/badge/JavaScript-80%25-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
+![PHP](https://img.shields.io/badge/PHP-60%25-777BB4?style=for-the-badge&logo=php)  
+![TypeScript](https://img.shields.io/badge/TypeScript-70%25-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+
 
 ### 🌐 Web Development  
 ![HTML](https://img.shields.io/badge/HTML-80%25-E34F26?style=for-the-badge&logo=html5&logoColor=white)
