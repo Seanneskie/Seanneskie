@@ -74,6 +74,14 @@
   <img src="https://img.shields.io/badge/OpenPyXL-3.1.2-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 </p>
 
+### 🧠 Machine Learning & AI  
+<p align="left">
+  <img src="https://img.shields.io/badge/TensorFlow-2.16.1-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-2.2.1-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/Teachable%20Machine-Google-34A853?style=for-the-badge&logo=google&logoColor=white" />
+</p>
+
+
 ### 🚀 Node.js Modules  
 <p align="left">
   <img src="https://img.shields.io/badge/React-18.2-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
