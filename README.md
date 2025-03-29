@@ -11,13 +11,14 @@
 ☕ **Coffee keeps my code running smoothly!**  
 
 ---
+
 <p align="center">
   <img src="https://img.shields.io/badge/Python-Developer-1E3A8A?style=for-the-badge&logo=python" />
   <img src="https://img.shields.io/badge/Django-Lover-092E20?style=for-the-badge&logo=django" />
   <img src="https://img.shields.io/badge/JavaScript-80%25-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/React-60%25-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/PostgreSQL-80%25-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-60%25-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next.js-60%25-000000?style=for-the-badge&logo=next.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Coffee-Lover-6F4E37?style=for-the-badge&logo=coffee&logoColor=white" />
 </p>
 
@@ -88,8 +89,9 @@
   <img src="https://img.shields.io/badge/Tableau-60%25-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
   <img src="https://img.shields.io/badge/Looker-60%25-4285F4?style=for-the-badge&logo=looker&logoColor=white"/>
   <img src="https://img.shields.io/badge/Microsoft%20Excel-80%25-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Weka-3.9-FFB000?style=for-the-badge&logo=weka&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Orange-3.34-FFA500?style=for-the-badge&logo=orange&logoColor=black"/>
 </p>
-
 
 
 
