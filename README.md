@@ -43,12 +43,19 @@
 ![React](https://img.shields.io/badge/React-60%25-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Django](https://img.shields.io/badge/Django-80%25-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-60%25-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-70%25-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Electron.js](https://img.shields.io/badge/Electron.js-50%25-47848F?style=for-the-badge&logo=electron&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-60%25-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+
 
 ### 🛢️ Database Management  
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-80%25-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-80%25-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-80%25-3ECF8E?style=for-the-badge&logo=supabase)
 ![Basic SQL](https://img.shields.io/badge/Basic%20SQL-100%25-4479A1?style=for-the-badge&logo=sqlite)
+![SQLite](https://img.shields.io/badge/SQLite-90%25-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-80%25-00758F?style=for-the-badge&logo=mysql&logoColor=white)
+
 
 ### 🎨 CSS Frameworks  
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-60%25-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
@@ -79,7 +86,11 @@
   <img src="https://img.shields.io/badge/TensorFlow-2.16.1-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
   <img src="https://img.shields.io/badge/PyTorch-2.2.1-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
   <img src="https://img.shields.io/badge/Teachable%20Machine-Google-34A853?style=for-the-badge&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenAI-API-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangChain-Framework-000000?style=for-the-badge&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/LLMs-Powered-FFB900?style=for-the-badge&logo=python&logoColor=white" />
 </p>
+
 
 
 ### 🚀 Node.js Modules  
