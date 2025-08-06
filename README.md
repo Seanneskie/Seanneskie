@@ -126,7 +126,7 @@
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Seanneskie&show_icons=true&theme=radical)](https://github.com/Seanneskie)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Seanneskie&layout=compact&theme=radical)](https://github.com/Seanneskie)  
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Seanneskie&theme=radical)](https://github.com/Seanneskie)  
+[![GitHub Streak](https://streak-stats.demolab.com?user=Seanneskie&theme=radical)](https://streak-stats.demolab.com)
 [![Seanneskie's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Seanneskie&theme=radical)](https://github.com/Seanneskie)  
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Seanneskie&theme=radical&column=4)](https://github.com/Seanneskie)  
