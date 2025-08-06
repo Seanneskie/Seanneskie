@@ -121,17 +121,39 @@
 
 ## 🚀 GitHub Stats  
 
-<div align="center">
+<!-- Stats grid -->
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/Seanneskie">
+        <img src="https://github-readme-stats.vercel.app/api?username=Seanneskie&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+      </a>
+    </td>
+    <td>
+      <a href="https://streak-stats.demolab.com">
+        <img src="https://streak-stats.demolab.com?user=Seanneskie&theme=radical&hide_border=true" alt="GitHub Streak" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/Seanneskie">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Seanneskie&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=Seanneskie&theme=radical&hide_border=true" alt="Activity Graph" />
+      </a>
+    </td>
+  </tr>
+</table>
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Seanneskie&show_icons=true&theme=radical)](https://github.com/Seanneskie)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Seanneskie&layout=compact&theme=radical)](https://github.com/Seanneskie)  
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=Seanneskie&theme=radical)](https://streak-stats.demolab.com)
-[![Seanneskie's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Seanneskie&theme=radical)](https://github.com/Seanneskie)  
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Seanneskie&theme=radical&column=4)](https://github.com/Seanneskie)  
+<!-- Trophies -->
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img src="https://github-profile-trophy.vercel.app/?username=Seanneskie&theme=radical&no-bg=true&no-frame=true&column=6" alt="Trophies" />
+</a>
 
 </div>
-
 
 
