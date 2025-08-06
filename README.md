@@ -130,8 +130,8 @@
       </a>
     </td>
     <td>
-      <a href="https://streak-stats.demolab.com">
-        <img src="https://streak-stats.demolab.com?user=Seanneskie&theme=radical&hide_border=true" alt="GitHub Streak" />
+       <a href="https://github.com/ryo-ma/github-profile-trophy">
+        <img src="https://github-profile-trophy.vercel.app/?username=Seanneskie&theme=radical&no-bg=true&no-frame=true&column=6" alt="Trophies" />
       </a>
     </td>
   </tr>
@@ -150,9 +150,7 @@
 </table>
 
 <!-- Trophies -->
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=Seanneskie&theme=radical&no-bg=true&no-frame=true&column=6" alt="Trophies" />
-</a>
+
 
 </div>
 
