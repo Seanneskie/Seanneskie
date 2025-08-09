@@ -121,33 +121,38 @@
 
 ## 🚀 GitHub Stats  
 
-<!-- Stats grid -->
+<!-- Stats in one column -->
 <table>
   <tr>
     <td>
       <a href="https://github.com/Seanneskie">
-        <img src="https://github-readme-stats.vercel.app/api?username=Seanneskie&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+        <img src="https://github-readme-stats.vercel.app/api?username=Seanneskie&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
       </a>
     </td>
+  </tr>
+  <tr>
     <td>
-       <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img src="https://github-profile-trophy.vercel.app/?username=Seanneskie&theme=radical&no-bg=true&no-frame=true&column=6" alt="Trophies" />
+      <a href="https://github.com/ryo-ma/github-profile-trophy">
+        <img src="https://github-profile-trophy.vercel.app/?username=Seanneskie&theme=tokyonight&no-bg=true&no-frame=true&column=6" alt="Trophies" />
       </a>
     </td>
   </tr>
   <tr>
     <td>
       <a href="https://github.com/Seanneskie">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Seanneskie&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Seanneskie&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
       </a>
     </td>
+  </tr>
+  <tr>
     <td>
       <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=Seanneskie&theme=radical&hide_border=true" alt="Activity Graph" />
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=Seanneskie&theme=tokyonight&hide_border=true" alt="Activity Graph" />
       </a>
     </td>
   </tr>
 </table>
+
 
 <!-- Trophies -->
 
