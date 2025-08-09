@@ -147,7 +147,7 @@
   <tr>
     <td>
       <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=Seanneskie&theme=tokyonight&hide_border=true" alt="Activity Graph" />
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=Seanneskie&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
       </a>
     </td>
   </tr>
