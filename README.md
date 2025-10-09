@@ -7,7 +7,7 @@
 🚀 **Passionate Developer** | 📖 **Light Novel Enthusiast** | 🎨 **Anime & Manga Fan**  
 
 💡 I love **building projects** and exploring **new technologies.**  
-🎯 **Currently focusing on:** **Python, Django, and AI integration.**  
+🎯 **Currently focusing on:** **Python, Django, React, Web Development and AI integration.**  
 ☕ **Coffee keeps my code running smoothly!**  
 
 ---
