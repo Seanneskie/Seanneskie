@@ -46,7 +46,7 @@
 ![FastAPI](https://img.shields.io/badge/FastAPI-70%25-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Electron.js](https://img.shields.io/badge/Electron.js-50%25-47848F?style=for-the-badge&logo=electron&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-60%25-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-
+![Astro](https://img.shields.io/badge/Astro-60%25-FF5D01?style=for-the-badge&logo=astro&logoColor=white)
 
 ### 🛢️ Database Management  
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-80%25-336791?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -55,6 +55,7 @@
 ![Basic SQL](https://img.shields.io/badge/Basic%20SQL-100%25-4479A1?style=for-the-badge&logo=sqlite)
 ![SQLite](https://img.shields.io/badge/SQLite-90%25-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-80%25-00758F?style=for-the-badge&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-70%25-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
 
 ### 🎨 CSS Frameworks  
@@ -70,6 +71,8 @@
 ### 🚀 Deployments & Hosting  
 ![Render](https://img.shields.io/badge/Render-60%25-46E3B7?style=for-the-badge&logo=render)
 ![Railway](https://img.shields.io/badge/Railway-60%25-0B0D12?style=for-the-badge&logo=railway&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-60%25-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Fly.io](https://img.shields.io/badge/Fly.io-60%25-8B5CF6?style=for-the-badge&logo=flydotio&logoColor=white)
 
 ## 📦 Dependencies & Tools  
 
