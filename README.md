@@ -47,6 +47,9 @@
 ![Electron.js](https://img.shields.io/badge/Electron.js-50%25-47848F?style=for-the-badge&logo=electron&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-60%25-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![Astro](https://img.shields.io/badge/Astro-60%25-FF5D01?style=for-the-badge&logo=astro&logoColor=white)
+![Remix](https://img.shields.io/badge/Remix-55%25-000000?style=for-the-badge&logo=remix&logoColor=white)
+![TanStack](https://img.shields.io/badge/TanStack-55%25-FF4F00?style=for-the-badge&logo=reactquery&logoColor=white)
+
 
 ### 🛢️ Database Management  
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-80%25-336791?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -90,7 +93,10 @@
   <img src="https://img.shields.io/badge/PyTorch-2.2.1-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
   <img src="https://img.shields.io/badge/Teachable%20Machine-Google-34A853?style=for-the-badge&logo=google&logoColor=white" />
   <img src="https://img.shields.io/badge/OpenAI-API-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gemini-Google%20AI-4285F4?style=for-the-badge&logo=google&logoColor=white" />
   <img src="https://img.shields.io/badge/LangChain-Framework-000000?style=for-the-badge&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/Langfuse-Observability-7B3FE4?style=for-the-badge&logo=langfuse&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prompt%20Engineering-Advanced-FFB900?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/LLMs-Powered-FFB900?style=for-the-badge&logo=python&logoColor=white" />
 </p>
 
