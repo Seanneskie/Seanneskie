@@ -128,36 +128,65 @@
 
 
 
-## 🚀 GitHub Stats  
-<!-- Stats and Languages in one row -->
+## 🚀 GitHub Stats
+
 <table>
   <tr>
-    <td>
-      <a href="https://github.com/Seanneskie">
-        <img src="https://github-readme-stats.vercel.app/api?username=Seanneskie&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-      </a>
+    <td width="50%">
+      <!-- Main Stats (Primary + Fallback Mirror) -->
+      <img src="https://github-readme-stats.vercel.app/api?username=Seanneskie&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" />
+      <br />
+      <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Seanneskie&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" />
     </td>
-    <td>
-      <a href="https://github.com/Seanneskie">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Seanneskie&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" alt="Top Languages" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img src="https://github-profile-trophy.vercel.app/?username=Seanneskie&theme=tokyonight&no-bg=true&no-frame=true&column=8" alt="Trophies" />
-      </a>
+    <td width="50%">
+      <!-- Top Languages (Primary + Fallback Mirror) -->
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Seanneskie&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&cache_seconds=86400" />
+      <br />
+      <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Seanneskie&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&cache_seconds=86400" />
     </td>
   </tr>
+
   <tr>
     <td colspan="2" align="center">
-      <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=Seanneskie&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
-      </a>
+      <!-- Streak -->
+      <img src="https://streak-stats.demolab.com?user=Seanneskie&theme=tokyonight&hide_border=true" />
+    </td>
+  </tr>
+
+  <tr>
+    <td colspan="2" align="center">
+      <!-- Trophies -->
+      <img src="https://github-profile-trophy.vercel.app/?username=Seanneskie&theme=tokyonight&no-bg=true&no-frame=true&column=8" />
+    </td>
+  </tr>
+
+  <tr>
+    <td colspan="2" align="center">
+      <!-- Activity Graph -->
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=Seanneskie&theme=tokyo-night&hide_border=true" />
+    </td>
+  </tr>
+
+  <tr>
+    <td colspan="2" align="center">
+      <!-- Visitors -->
+      <img src="https://komarev.com/ghpvc/?username=Seanneskie&style=flat&color=blue" />
     </td>
   </tr>
 </table>
+
+---
+
+## 📌 Pinned Highlights
+
+<a href="https://github.com/Seanneskie?tab=repositories">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Seanneskie&repo=REPO_NAME_1&theme=tokyonight&hide_border=true" />
+</a>
+<a href="https://github.com/Seanneskie?tab=repositories">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Seanneskie&repo=REPO_NAME_2&theme=tokyonight&hide_border=true" />
+</a>
+
+<!-- Copy/paste more pins as needed -->
 
 
 <!-- Trophies -->
