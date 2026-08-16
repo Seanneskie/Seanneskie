@@ -177,19 +177,6 @@
 
 ---
 
-## 📌 Pinned Highlights
-
-<a href="https://github.com/Seanneskie?tab=repositories">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Seanneskie&repo=REPO_NAME_1&theme=tokyonight&hide_border=true" />
-</a>
-<a href="https://github.com/Seanneskie?tab=repositories">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Seanneskie&repo=REPO_NAME_2&theme=tokyonight&hide_border=true" />
-</a>
-
-<!-- Copy/paste more pins as needed -->
-
-
-<!-- Trophies -->
 
 
 </div>
